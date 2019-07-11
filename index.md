@@ -10,8 +10,7 @@ In the summer of 2018, I had an internship with a startup game studio. There I w
 
 Some of my favourite video games include Overcooked, The Talos Principle, Fallout: NV, and Minecraft. I am also an avid tabletop gamer; I host a weekly DnD campaign, attend Friday Night Magic every single week I can, and have an ever growing board game collection.
 > “Justin was proactive, enthusiastic and multi-talented. That enthusiasm continued throughout the entire internship. Looking back at our interview and hiring process, I would absolutely make the same decision in taking Justin on as a team member. He is  a valuable asset, with good insight and work ethic.”
-
-    __— Tommy Stuart, Co-founder & CEO of Coney Dog Games__
+   __— Tommy Stuart, Co-founder & CEO of Coney Dog Games__
 
 # Projects
 
