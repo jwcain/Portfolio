@@ -15,6 +15,8 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 
 # Projects
 
+Here is compiled list of some of my projects. More details on all of them can be found on their GitHub pages.
+
 ## Unity3D - C#
 
 ### Astrocide
