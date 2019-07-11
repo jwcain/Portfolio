@@ -17,7 +17,7 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 
 # Projects
 
-Here is compiled list of some of my projects. More details on all of them can be found on their GitHub pages.
+Here is compiled list of some of my projects. More details may be found on their GitHub pages.
 
 ## Unity3D - C#
 
@@ -44,7 +44,7 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 - __Role:__ Team Leader, Rendering Programmer
 - __Description:__
 
-Non-Euclidean 2D Line drawing game
+The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in this sense, means that many of the rooms and spaces do not connect in ways that you expect. I worked primarily on the rendering code, more specifically [Game Manager](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/GameManager.cs), [Rendering Handler](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderingHandler.cs), and [Rendering Tile](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderTile.cs), but as team leader I assisted development with most code throughout the project.
 
 ## C++
 
