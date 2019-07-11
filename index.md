@@ -17,7 +17,9 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 ## Unity3D - C#
 
 ### Astrocide
+[GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - Role: Game Dev Intern, Project Programming Lead
+
 
 ### Agent 967
 
