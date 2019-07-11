@@ -19,16 +19,21 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 ### Astrocide
 
 ### Agent 967
+[Bitbucket Repostitory](https://bitbucket.org/AffinityforFun/agent967/src/master/)
 
 ### Non-Euclidean 2D Line drawing game in Non-Euclidean Space
+[GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 
 ## C++
 
 ### SMU Huffman Encoding
+[GitHub Page](https://github.com/jwcain/SMU_Huffman)
 
 ### SMU Resource Manager
+[GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
 
 ## Python
 
 ### AffinityForQuotes
+[GitHub Page](https://github.com/jwcain/AffinityForQuotes)
 
