@@ -22,12 +22,17 @@ Here is compiled list of some of my projects. More details on all of them can be
 ### Astrocide
 - [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - Role: Game Dev Intern, Project Programming Lead
+- Description:
 
+...
 
 ### Agent 967
 - [GitHub Page](https://github.com/jwcain/Agent967_Project)
 - [Play Now](https://jwcain.github.io/Agent967/)
 - Role: Solo Developer
+- Description:
+
+...
 
 ### The Path you Chose
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
@@ -42,14 +47,23 @@ Non-Euclidean 2D Line drawing game
 ### SMU Huffman Encoding
 - [GitHub Page](https://github.com/jwcain/SMU_Huffman)
 - Role: Solo Developer
+- Description:
+
+...
 
 ### SMU Resource Manager
 - [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
 - Role: Solo Developer
+- Description:
+
+...
 
 ## Python
 
 ### AffinityForQuotes
 - [GitHub Page](https://github.com/jwcain/AffinityForQuotes)
 - Role: Solo Developer
+- Description:
+
+...
 
