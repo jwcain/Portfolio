@@ -14,5 +14,21 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 
 # Projects
 
+## Unity3D - C#
 
+### Astrocide
+
+### Agent 967
+
+### Non-Euclidean 2D Line drawing game in Non-Euclidean Space
+
+## C++
+
+### SMU Huffman Encoding
+
+### SMU Resource Manager
+
+## Python
+
+### AffinityForQuotes
 
