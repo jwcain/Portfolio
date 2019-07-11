@@ -28,13 +28,14 @@ Here is compiled list of some of my projects. More details on all of them can be
 
 ...
 
-### Agent 967
+### Agent 967: A VR Evidence Disposal Game
 - [GitHub Page](https://github.com/jwcain/Agent967_Project)
-- [Play Now](https://jwcain.github.io/Agent967/)
+- [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
+- [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
 - Role: Solo Developer
 - Description:
 
-...
+Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.
 
 ### The Path you Chose
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
