@@ -17,23 +17,30 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 ## Unity3D - C#
 
 ### Astrocide
+-Role: Game Dev Intern, Project Programming Lead
 
 ### Agent 967
+
 [Bitbucket Repostitory](https://bitbucket.org/AffinityforFun/agent967/src/master/)
+-Role: Solo Developer
 
 ### Non-Euclidean 2D Line drawing game in Non-Euclidean Space
 [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
+-Role: Team Leader, Rendering Programmer
 
 ## C++
 
 ### SMU Huffman Encoding
 [GitHub Page](https://github.com/jwcain/SMU_Huffman)
+-Role: Solo Developer
 
 ### SMU Resource Manager
 [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
+-Role: Solo Developer
 
 ## Python
 
 ### AffinityForQuotes
 [GitHub Page](https://github.com/jwcain/AffinityForQuotes)
+-Role: Solo Developer
 
