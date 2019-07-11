@@ -33,7 +33,8 @@ Here is compiled list of some of my projects. More details on all of them can be
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 - [Play Now](https://jwcain.github.io/noneuclid/)
 - Role: Team Leader, Rendering Programmer
-- Description
+- Description:
+
 Non-Euclidean 2D Line drawing game
 
 ## C++
