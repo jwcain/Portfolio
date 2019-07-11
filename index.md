@@ -39,6 +39,7 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 
 ### The Path you Chose
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
+- [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
 - [Play Now](https://jwcain.github.io/noneuclid/)
 - __Role:__ Team Leader, Rendering Programmer
 - __Description:__
