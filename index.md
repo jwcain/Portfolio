@@ -24,7 +24,7 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 [Bitbucket Repostitory](https://bitbucket.org/AffinityforFun/agent967/src/master/)
 - Role: Solo Developer
 
-### Non-Euclidean 2D Line drawing game in Non-Euclidean Space
+### Non-Euclidean 2D Line drawing game
 [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 - Role: Team Leader, Rendering Programmer
 
