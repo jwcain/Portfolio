@@ -26,7 +26,7 @@ Here is compiled list of some of my projects. More details on all of them can be
 - __Role__: Game Dev Intern, Project Programming Lead
 - __Description:___
 
-...
+Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch.
 
 ### Agent 967: A VR Evidence Disposal Game
 - [GitHub Page](https://github.com/jwcain/Agent967_Project)
