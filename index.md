@@ -23,8 +23,8 @@ Here is compiled list of some of my projects. More details on all of them can be
 
 ### Astrocide
 - [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
-- Role: Game Dev Intern, Project Programming Lead
-- Description:
+- __Role__: Game Dev Intern, Project Programming Lead
+- __Description:___
 
 ...
 
@@ -32,16 +32,16 @@ Here is compiled list of some of my projects. More details on all of them can be
 - [GitHub Page](https://github.com/jwcain/Agent967_Project)
 - [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
 - [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
-- Role: Solo Developer
-- Description:
+- __Role:__ Solo Developer
+- __Description:__
 
 Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.
 
 ### The Path you Chose
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 - [Play Now](https://jwcain.github.io/noneuclid/)
-- Role: Team Leader, Rendering Programmer
-- Description:
+- __Role:__ Team Leader, Rendering Programmer
+- __Description:__
 
 Non-Euclidean 2D Line drawing game
 
@@ -49,15 +49,15 @@ Non-Euclidean 2D Line drawing game
 
 ### SMU Huffman Encoding
 - [GitHub Page](https://github.com/jwcain/SMU_Huffman)
-- Role: Solo Developer
-- Description:
+- __Role:__ Solo Developer
+- __Description:__
 
 ...
 
 ### SMU Resource Manager
 - [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
-- Role: Solo Developer
-- Description:
+- __Role:__ Solo Developer
+- __Description:__
 
 ...
 
@@ -65,8 +65,8 @@ Non-Euclidean 2D Line drawing game
 
 ### AffinityForQuotes
 - [GitHub Page](https://github.com/jwcain/AffinityForQuotes)
-- Role: Solo Developer
-- Description:
+- __Role:__ Solo Developer
+- __Description:__
 
 ...
 
