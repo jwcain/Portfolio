@@ -20,32 +20,33 @@ Here is compiled list of some of my projects. More details on all of them can be
 ## Unity3D - C#
 
 ### Astrocide
-[GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
+- [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - Role: Game Dev Intern, Project Programming Lead
 
 
 ### Agent 967
-
-[Bitbucket Repostitory](https://bitbucket.org/AffinityforFun/agent967/src/master/)
+- [GitHub Page](https://github.com/jwcain/Agent967_Project)
+- [Play Now](https://jwcain.github.io/Agent967/)
 - Role: Solo Developer
 
 ### Non-Euclidean 2D Line drawing game
-[GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
+- [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
+- [Play Now](https://jwcain.github.io/noneuclid/)
 - Role: Team Leader, Rendering Programmer
 
 ## C++
 
 ### SMU Huffman Encoding
-[GitHub Page](https://github.com/jwcain/SMU_Huffman)
+- [GitHub Page](https://github.com/jwcain/SMU_Huffman)
 - Role: Solo Developer
 
 ### SMU Resource Manager
-[GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
+- [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
 - Role: Solo Developer
 
 ## Python
 
 ### AffinityForQuotes
-[GitHub Page](https://github.com/jwcain/AffinityForQuotes)
+- [GitHub Page](https://github.com/jwcain/AffinityForQuotes)
 - Role: Solo Developer
 
