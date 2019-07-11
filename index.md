@@ -17,6 +17,8 @@ Some of my favourite video games include Overcooked, The Talos Principle, Fallou
 
 
 
-> “Justin was proactive, enthusiastic and multi-talented. That enthusiasm continued throughout the entire internship, ... This experience > showed me that he is not only talented, but also motivated. 
-> Looking back at our interview and hiring process, I would absolutely make the same decision in taking Justin on as a team member. He is > a valuable asset, with good insight and work ethic.”
+> “Justin was proactive, enthusiastic and multi-talented. That enthusiasm continued throughout the entire internship, ... This experience  showed me that he is not only talented, but also motivated. 
+Looking back at our interview and hiring process, I would absolutely make the same decision in taking Justin on as a team member. He is  a valuable asset, with good insight and work ethic.”
 __— Tommy Stuart, Co-founder & CEO of Coney Dog Games__
+
+werqwrwqrweqr
