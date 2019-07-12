@@ -55,7 +55,7 @@ The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in th
 
 A tool to assist in developing a resource system for video games. It assists in checking for validity and resource dependencies.
 
-### SMU Huffman Encoding
+### SMU Huffman Compression/Decompression
 - [GitHub Page](https://github.com/jwcain/SMU_Huffman)
 - __Role:__ Solo Developer
 - __Description:__
