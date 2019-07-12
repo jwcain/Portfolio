@@ -24,7 +24,7 @@ Here is compiled list of some of my projects. More details may be found on their
 ### Astrocide
 - [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - __Role__: Game Dev Intern, Project Programming Lead
-- __Description:___
+- __Description:__
 
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch.
 
