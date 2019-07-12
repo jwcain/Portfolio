@@ -48,19 +48,19 @@ The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in th
 
 ## C++
 
-### SMU Huffman Encoding
-- [GitHub Page](https://github.com/jwcain/SMU_Huffman)
-- __Role:__ Solo Developer
-- __Description:__
-
-A byte-to-bits compression algorithm that uses byte-frequency to calculate new, shorter representations.
-
 ### SMU Resource Manager
 - [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
 - __Role:__ Solo Developer
 - __Description:__
 
 A tool to assist in developing a resource system for video games. It assists in checking for validity and resource dependencies.
+
+### SMU Huffman Encoding
+- [GitHub Page](https://github.com/jwcain/SMU_Huffman)
+- __Role:__ Solo Developer
+- __Description:__
+
+A byte-to-bits compression algorithm that uses byte-frequency to calculate new, shorter representations.
 
 ## Python
 
