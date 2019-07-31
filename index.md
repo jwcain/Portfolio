@@ -1,7 +1,7 @@
 # [View Resume](https://docs.google.com/document/d/1xmItxu94-5XauQrjJQpY1PTJU1NHHDiE4jw39LWodYo/edit?usp=sharing) 
 # Contact
 - jwcain@mtu.edu
-- 1 (517) 745 8725
+- 1 (517) 745 8726
 
 # About Me
 
