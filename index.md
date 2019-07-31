@@ -1,5 +1,7 @@
 # [View Resume](https://docs.google.com/document/d/1xmItxu94-5XauQrjJQpY1PTJU1NHHDiE4jw39LWodYo/edit?usp=sharing) 
-
+You can contact me at:
+- jwcain@mtu.edu
+- 1 (517) 745 8725
 
 # About Me
 
@@ -13,9 +15,7 @@ In the summer of 2018, I had an internship with a startup game studio, Coney Dog
 
 Some of my favourite video games include Overcooked, The Talos Principle, Fallout: NV, and Minecraft. I am also an avid tabletop gamer; I host a weekly DnD campaign, attend Friday Night Magic every week I can, and have an ever growing board game collection.
 
-You can contact me at:
-- jwcain@mtu.edu
-- 1 (517) 745 8725
+
 
 > “Justin was proactive, enthusiastic and multi-talented. That enthusiasm continued throughout the entire internship. Looking back at our interview and hiring process, I would absolutely make the same decision in taking Justin on as a team member. He is  a valuable asset, with good insight and work ethic.”
    __— Tommy Stuart, Co-founder & CEO of Coney Dog Games__
