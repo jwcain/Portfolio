@@ -34,8 +34,8 @@ Here is compiled list of some of my projects. More details may be found on their
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch.
 
 ### Agent 967: A VR Evidence Disposal Game
-- [GitHub Page](https://github.com/jwcain/Agent967_Project)
 - [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
+- [GitHub Page](https://github.com/jwcain/Agent967_Project)
 - [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
 - __Role:__ Solo Developer
 - __Description:__
@@ -43,9 +43,9 @@ Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic f
 Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.
 
 ### The Path you Chose
+- [Play Now](https://jwcain.github.io/noneuclid/)
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 - [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
-- [Play Now](https://jwcain.github.io/noneuclid/)
 - __Role:__ Team Leader, Rendering Programmer
 - __Description:__
 
