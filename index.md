@@ -48,7 +48,7 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 - __Role:__ Solo Developer
 - __Description:__
 
-A human playable euchre game where the AI has been developed using a genetic algorithm.
+A human playable euchre game where the AI has been augmented using a genetic algorithm.
 
 ### The Path you Chose
 - [Play Now](https://jwcain.github.io/noneuclid/)
