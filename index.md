@@ -47,6 +47,7 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 - [GitHub Page](https://github.com/jwcain/Genetic_Euchre)
 - __Role:__ Solo Developer
 - __Description:__
+
 A human playable euchre game where the AI has been developed using a genetic algorithm.
 
 ### The Path you Chose
