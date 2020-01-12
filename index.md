@@ -13,7 +13,7 @@ I was awarded a scholarship by my enterprise to attend [GDC2018](https://www.gdc
 
 In the summer of 2018, I had an internship with a startup game studio, Coney Dog Games.
 
-Some of my favourite video games include Overcooked, The Talos Principle, Fallout: NV, and Minecraft. I am also an avid tabletop gamer; I host a weekly DnD campaign, attend Friday Night Magic every week I can, and have an ever growing board game collection.
+Some of my favourite video games include Overcooked, The Talos Principle, Slay the Spire, Celeste, and Minecraft. I am also an avid tabletop gamer; I host a weekly DnD campaign, attend Friday Night Magic every week I can, and have an ever growing board game collection.
 
 
 
