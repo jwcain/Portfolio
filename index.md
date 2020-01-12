@@ -51,7 +51,7 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 A human playable euchre game where the AI has been augmented using a genetic algorithm.
 
 ### The Path You Chose
-- [Play Now](https://jwcain.github.io/noneuclid/)
+- [Play Now (Demo Level Only)](https://jwcain.github.io/noneuclid/)
 - [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
 - [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
 - __Role:__ Team Leader, Rendering Programmer
