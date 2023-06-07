@@ -36,7 +36,6 @@ A twist on the classic sliding block puzzle game, taking place on a hexagonal gr
 - [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - __Role__: Game Dev Intern, Project Programming Lead
 - __Description:__
-
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch.
 
 ### Agent 967: A VR Evidence Disposal Game
@@ -45,7 +44,6 @@ Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic f
 - [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
 - __Role:__ Solo Developer
 - __Description:__
-
 Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.
 
 ### Genetic Euchre
@@ -53,7 +51,6 @@ Your duty is to ensure the proper filing, organizing, and destruction of all evi
 - [GitHub Page](https://github.com/jwcain/Genetic_Euchre)
 - __Role:__ Solo Developer
 - __Description:__
-
 A human playable euchre game where the AI has been augmented using a genetic algorithm.
 
 ### The Path You Chose
@@ -62,7 +59,6 @@ A human playable euchre game where the AI has been augmented using a genetic alg
 - [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
 - __Role:__ Team Leader, Rendering Programmer
 - __Description:__
-
 The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in this sense, means that many of the rooms and spaces do not connect in ways that you expect. I worked primarily on the rendering code, more specifically [Game Manager](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/GameManager.cs), [Rendering Handler](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderingHandler.cs), and [Rendering Tile](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderTile.cs), but as the team leader I assisted development with most code throughout the project.
 
 ## C++
@@ -71,14 +67,12 @@ The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in th
 - [GitHub Page](https://github.com/jwcain/SMU_ResourceManager)
 - __Role:__ Solo Developer
 - __Description:__
-
 A tool to assist in developing a resource system for video games. It assists in checking for validity and resource dependencies.
 
 ### SMU Huffman Compression/Decompression
 - [GitHub Page](https://github.com/jwcain/SMU_Huffman)
 - __Role:__ Solo Developer
 - __Description:__
-
 A byte-to-bits compression algorithm that uses byte-frequency to calculate new, shorter representations.
 
 ## Python
@@ -87,6 +81,5 @@ A byte-to-bits compression algorithm that uses byte-frequency to calculate new, 
 - [GitHub Page](https://github.com/jwcain/AffinityForQuotes)
 - __Role:__ Solo Developer
 - __Description:__
-
 A Discord bot that generates fake quotes based on user's messages.
 
