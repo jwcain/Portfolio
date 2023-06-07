@@ -37,25 +37,20 @@ A twist on the classic sliding block puzzle game, taking place on a hexagonal gr
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch.
 
 ### Agent 967: A VR Evidence Disposal Game
-- [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
-- [GitHub Page](https://github.com/jwcain/Agent967_Project)
-- [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
+- [Play Now (Non-VR)](https://jwcain.github.io/Agent967/) | [GitHub Page](https://github.com/jwcain/Agent967_Project) | [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
 - __Role:__ Solo Developer
 - __Description:__
 Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.
 
 ### Genetic Euchre
-- [Play Now](https://jwcain.github.io/Euchre_Play/)
-- [GitHub Page](https://github.com/jwcain/Genetic_Euchre)
+- [Play Now](https://jwcain.github.io/Euchre_Play/) | [GitHub Page](https://github.com/jwcain/Genetic_Euchre)
 - __Role:__ Solo Developer
 - __Description:__
 A human playable euchre game where the AI has been augmented using a genetic algorithm.
 
 ### The Path You Chose
-- [Play Now (Demo Level Only)](https://jwcain.github.io/noneuclid/)
-- [GitHub Page](https://github.com/HuskyGameDev/2019s-team4)
-- [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
-- __Role:__ Team Leader, Rendering Programmer
+- [Play Now (Demo Level Only)](https://jwcain.github.io/noneuclid/) | [GitHub Page](https://github.com/HuskyGameDev/2019s-team4) | [View Teaser Trailer](https://www.youtube.com/watch?v=u43h-v9xnv4)
+- __Role:__ Team Leader, "Rendering" Programmer
 - __Description:__
 The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in this sense, means that many of the rooms and spaces do not connect in ways that you expect. I worked primarily on the rendering code, more specifically [Game Manager](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/GameManager.cs), [Rendering Handler](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderingHandler.cs), and [Rendering Tile](https://github.com/HuskyGameDev/2019s-team4/blob/master/Assets/Scripts/RenderTile.cs), but as the team leader I assisted development with most code throughout the project.
 
