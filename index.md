@@ -5,17 +5,15 @@
 
 # About Me
 
-Hi, I am Justin! I am a [Michigan Technological University](https://www.mtu.edu/cs/) graduate with a B.S. in Software Engineering and an aspiration to break into the video game development industry. I have been a hobbyist developer since I was 10, with experience primarily focusing on general gameplay development and AI.
+Hi, I am Justin! I am a [Michigan Technological University](https://www.mtu.edu/cs/) graduate with a B.S. in Software Engineering and an aspiration to work on projects that have a meaningful impact on its users, either as media expereinces or usefool tools! My current objective is to find a passionate team working on a project that has a real impact. As an avid baker, you can also find some of my recipes below!
+
+My first 2.5 years post-grad where working with [Sonalysts](https://www.sonalysts.com/) on BlackHorizon, a serious-game/training simulator for AirFore and SpaceForce to learn orbital mechanics and practice potential satellite operations. I worked on the project's software architecture, built the project for iOS/Android/Desktop, and worked on custom developer tools for the team to speed up development.
 
 I worked for 3 years in the [Husky Game Development Enterprise](https://www.huskygames.com/) at MTU. In my second year, I served as Vice President of Operations within the enterprise. As VPO, I managed our weekly general meetings which usually involved lecturing on relevant game development topics. In my third year, I stepped down to take leadership over a game development project.
 
 I was awarded a scholarship by my enterprise to attend [GDC2018](https://www.gdconf.com/).
 
 In the summer of 2018, I had an internship with a startup game studio, Coney Dog Games.
-
-Some of my favourite video games include Overcooked, The Talos Principle, Slay the Spire, Celeste, and Minecraft. I am also an avid tabletop gamer; I host a weekly DnD campaign, attend Friday Night Magic every week I can, and have an ever growing board game collection.
-
-
 
 > “Justin was proactive, enthusiastic and multi-talented. That enthusiasm continued throughout the entire internship. Looking back at our interview and hiring process, I would absolutely make the same decision in taking Justin on as a team member. He is  a valuable asset, with good insight and work ethic.”
    __— Tommy Stuart, Co-founder & CEO of Coney Dog Games__
