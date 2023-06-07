@@ -26,6 +26,12 @@ Here is compiled list of some of my projects. More details may be found on their
 
 ## Games - Unity3D - C#
 
+### Hexquisite
+- [Play Now](https://jwcain.github.io/Hexquisite/)
+- __Role:__ Solo Developer
+- __Description:__
+A twist on the classic sliding block puzzle game, taking place on a hexagonal grid and allowing you to rotate pieces! Challend yourself to think in a new dimension.
+
 ### Astrocide
 - [GitHub Page (Code Samples)](https://github.com/jwcain/Astrocide_CodeSamples)
 - __Role__: Game Dev Intern, Project Programming Lead
