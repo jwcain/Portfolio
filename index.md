@@ -76,4 +76,4 @@ A byte-to-bits compression algorithm that uses byte-frequency to calculate new, 
 - __Description:__
 A Discord bot that generates fake quotes based on user's messages.
 
-# Recipes
+# [Recipes](https://recipes.justinwcain.com/)
